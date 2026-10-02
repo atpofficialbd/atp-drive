@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ATP Drive</string>
+    <string name="welcome">Welcome to ATP Drive</string>
+    <string name="tagline">Unlimited Cloud Storage</string>
+</resources>
